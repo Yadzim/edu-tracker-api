@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "filial_id": 1, "exam_id": 1, "timetable_item_id": 1, "timetable_item_date_id": 1, "duration": 60 },
+  { "edu_id": 2, "filial_id": 2, "exam_id": 2, "timetable_item_id": 2, "timetable_item_date_id": 2, "duration": 60 },
+  { "edu_id": 3, "filial_id": 3, "exam_id": 3, "timetable_item_id": 3, "timetable_item_date_id": 3, "duration": 60 },
+  { "edu_id": 4, "filial_id": 4, "exam_id": 4, "timetable_item_id": 4, "timetable_item_date_id": 4, "duration": 60 },
+  { "edu_id": 5, "filial_id": 5, "exam_id": 5, "timetable_item_id": 5, "timetable_item_date_id": 5, "duration": 60 },
+  { "edu_id": 6, "filial_id": 6, "exam_id": 6, "timetable_item_id": 6, "timetable_item_date_id": 6, "duration": 60 },
+  { "edu_id": 7, "filial_id": 7, "exam_id": 7, "timetable_item_id": 7, "timetable_item_date_id": 7, "duration": 60 },
+  { "edu_id": 8, "filial_id": 8, "exam_id": 8, "timetable_item_id": 8, "timetable_item_date_id": 8, "duration": 60 },
+  { "edu_id": 9, "filial_id": 9, "exam_id": 9, "timetable_item_id": 9, "timetable_item_date_id": 9, "duration": 60 },
+  { "edu_id": 10, "filial_id": 10, "exam_id": 10, "timetable_item_id": 10, "timetable_item_date_id": 10, "duration": 60 },
+  { "edu_id": 11, "filial_id": 11, "exam_id": 11, "timetable_item_id": 11, "timetable_item_date_id": 11, "duration": 60 },
+  { "edu_id": 12, "filial_id": 12, "exam_id": 12, "timetable_item_id": 12, "timetable_item_date_id": 12, "duration": 60 },
+  { "edu_id": 13, "filial_id": 13, "exam_id": 13, "timetable_item_id": 13, "timetable_item_date_id": 13, "duration": 60 },
+  { "edu_id": 14, "filial_id": 14, "exam_id": 14, "timetable_item_id": 14, "timetable_item_date_id": 14, "duration": 60 },
+  { "edu_id": 15, "filial_id": 15, "exam_id": 15, "timetable_item_id": 15, "timetable_item_date_id": 15, "duration": 60 }
+]
