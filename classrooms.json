@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "filial_id": 1, "class_id": 1, "name": "Classroom 1", "state": "active" },
+  { "edu_id": 2, "filial_id": 2, "class_id": 2, "name": "Classroom 2", "state": "active" },
+  { "edu_id": 3, "filial_id": 3, "class_id": 3, "name": "Classroom 3", "state": "active" },
+  { "edu_id": 4, "filial_id": 4, "class_id": 4, "name": "Classroom 4", "state": "active" },
+  { "edu_id": 5, "filial_id": 5, "class_id": 5, "name": "Classroom 5", "state": "active" },
+  { "edu_id": 6, "filial_id": 6, "class_id": 6, "name": "Classroom 6", "state": "active" },
+  { "edu_id": 7, "filial_id": 7, "class_id": 7, "name": "Classroom 7", "state": "active" },
+  { "edu_id": 8, "filial_id": 8, "class_id": 8, "name": "Classroom 8", "state": "active" },
+  { "edu_id": 9, "filial_id": 9, "class_id": 9, "name": "Classroom 9", "state": "active" },
+  { "edu_id": 10, "filial_id": 10, "class_id": 10, "name": "Classroom 10", "state": "active" },
+  { "edu_id": 11, "filial_id": 11, "class_id": 11, "name": "Classroom 11", "state": "active" },
+  { "edu_id": 12, "filial_id": 12, "class_id": 12, "name": "Classroom 12", "state": "active" },
+  { "edu_id": 13, "filial_id": 13, "class_id": 13, "name": "Classroom 13", "state": "active" },
+  { "edu_id": 14, "filial_id": 14, "class_id": 14, "name": "Classroom 14", "state": "active" },
+  { "edu_id": 15, "filial_id": 15, "class_id": 15, "name": "Classroom 15", "state": "active" }
+]
