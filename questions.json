@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "question_id": 1, "title": "Question 1", "subject_id": 1, "degree": "easy" },
+  { "edu_id": 2, "question_id": 2, "title": "Question 2", "subject_id": 2, "degree": "easy" },
+  { "edu_id": 3, "question_id": 3, "title": "Question 3", "subject_id": 3, "degree": "easy" },
+  { "edu_id": 4, "question_id": 4, "title": "Question 4", "subject_id": 4, "degree": "easy" },
+  { "edu_id": 5, "question_id": 5, "title": "Question 5", "subject_id": 5, "degree": "easy" },
+  { "edu_id": 6, "question_id": 6, "title": "Question 6", "subject_id": 6, "degree": "easy" },
+  { "edu_id": 7, "question_id": 7, "title": "Question 7", "subject_id": 7, "degree": "easy" },
+  { "edu_id": 8, "question_id": 8, "title": "Question 8", "subject_id": 8, "degree": "easy" },
+  { "edu_id": 9, "question_id": 9, "title": "Question 9", "subject_id": 9, "degree": "easy" },
+  { "edu_id": 10, "question_id": 10, "title": "Question 10", "subject_id": 10, "degree": "easy" },
+  { "edu_id": 11, "question_id": 11, "title": "Question 11", "subject_id": 11, "degree": "easy" },
+  { "edu_id": 12, "question_id": 12, "title": "Question 12", "subject_id": 12, "degree": "easy" },
+  { "edu_id": 13, "question_id": 13, "title": "Question 13", "subject_id": 13, "degree": "easy" },
+  { "edu_id": 14, "question_id": 14, "title": "Question 14", "subject_id": 14, "degree": "easy" },
+  { "edu_id": 15, "question_id": 15, "title": "Question 15", "subject_id": 15, "degree": "easy" }
+]
