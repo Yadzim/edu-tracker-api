@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "filial_id": 1, "time_id": 1, "name": "Lesson Time 1", "begin_time": "08:00", "end_time": "09:00" },
+  { "edu_id": 2, "filial_id": 2, "time_id": 2, "name": "Lesson Time 2", "begin_time": "09:00", "end_time": "10:00" },
+  { "edu_id": 3, "filial_id": 3, "time_id": 3, "name": "Lesson Time 3", "begin_time": "10:00", "end_time": "11:00" },
+  { "edu_id": 4, "filial_id": 4, "time_id": 4, "name": "Lesson Time 4", "begin_time": "11:00", "end_time": "12:00" },
+  { "edu_id": 5, "filial_id": 5, "time_id": 5, "name": "Lesson Time 5", "begin_time": "12:00", "end_time": "13:00" },
+  { "edu_id": 6, "filial_id": 6, "time_id": 6, "name": "Lesson Time 6", "begin_time": "13:00", "end_time": "14:00" },
+  { "edu_id": 7, "filial_id": 7, "time_id": 7, "name": "Lesson Time 7", "begin_time": "14:00", "end_time": "15:00" },
+  { "edu_id": 8, "filial_id": 8, "time_id": 8, "name": "Lesson Time 8", "begin_time": "15:00", "end_time": "16:00" },
+  { "edu_id": 9, "filial_id": 9, "time_id": 9, "name": "Lesson Time 9", "begin_time": "16:00", "end_time": "17:00" },
+  { "edu_id": 10, "filial_id": 10, "time_id": 10, "name": "Lesson Time 10", "begin_time": "17:00", "end_time": "18:00" },
+  { "edu_id": 11, "filial_id": 11, "time_id": 11, "name": "Lesson Time 11", "begin_time": "18:00", "end_time": "19:00" },
+  { "edu_id": 12, "filial_id": 12, "time_id": 12, "name": "Lesson Time 12", "begin_time": "19:00", "end_time": "20:00" },
+  { "edu_id": 13, "filial_id": 13, "time_id": 13, "name": "Lesson Time 13", "begin_time": "20:00", "end_time": "21:00" },
+  { "edu_id": 14, "filial_id": 14, "time_id": 14, "name": "Lesson Time 14", "begin_time": "21:00", "end_time": "22:00" },
+  { "edu_id": 15, "filial_id": 15, "time_id": 15, "name": "Lesson Time 15", "begin_time": "22:00", "end_time": "23:00" }
+]
