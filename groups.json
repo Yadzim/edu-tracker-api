@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "filial_id": 1, "group_id": 1, "division_id": 1, "class_id": 1, "name": "Group 1", "state": "active" },
+  { "edu_id": 2, "filial_id": 2, "group_id": 2, "division_id": 2, "class_id": 2, "name": "Group 2", "state": "active" },
+  { "edu_id": 3, "filial_id": 3, "group_id": 3, "division_id": 3, "class_id": 3, "name": "Group 3", "state": "active" },
+  { "edu_id": 4, "filial_id": 4, "group_id": 4, "division_id": 4, "class_id": 4, "name": "Group 4", "state": "active" },
+  { "edu_id": 5, "filial_id": 5, "group_id": 5, "division_id": 5, "class_id": 5, "name": "Group 5", "state": "active" },
+  { "edu_id": 6, "filial_id": 6, "group_id": 6, "division_id": 6, "class_id": 6, "name": "Group 6", "state": "active" },
+  { "edu_id": 7, "filial_id": 7, "group_id": 7, "division_id": 7, "class_id": 7, "name": "Group 7", "state": "active" },
+  { "edu_id": 8, "filial_id": 8, "group_id": 8, "division_id": 8, "class_id": 8, "name": "Group 8", "state": "active" },
+  { "edu_id": 9, "filial_id": 9, "group_id": 9, "division_id": 9, "class_id": 9, "name": "Group 9", "state": "active" },
+  { "edu_id": 10, "filial_id": 10, "group_id": 10, "division_id": 10, "class_id": 10, "name": "Group 10", "state": "active" },
+  { "edu_id": 11, "filial_id": 11, "group_id": 11, "division_id": 11, "class_id": 11, "name": "Group 11", "state": "active" },
+  { "edu_id": 12, "filial_id": 12, "group_id": 12, "division_id": 12, "class_id": 12, "name": "Group 12", "state": "active" },
+  { "edu_id": 13, "filial_id": 13, "group_id": 13, "division_id": 13, "class_id": 13, "name": "Group 13", "state": "active" },
+  { "edu_id": 14, "filial_id": 14, "group_id": 14, "division_id": 14, "class_id": 14, "name": "Group 14", "state": "active" },
+  { "edu_id": 15, "filial_id": 15, "group_id": 15, "division_id": 15, "class_id": 15, "name": "Group 15", "state": "active" }
+]
