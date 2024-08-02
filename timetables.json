@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "filial_id": 1, "edu_year_id": 1, "timetable_id": 1, "name": "Timetable 1", "state": "active" },
+  { "edu_id": 2, "filial_id": 2, "edu_year_id": 2, "timetable_id": 2, "name": "Timetable 2", "state": "active" },
+  { "edu_id": 3, "filial_id": 3, "edu_year_id": 3, "timetable_id": 3, "name": "Timetable 3", "state": "active" },
+  { "edu_id": 4, "filial_id": 4, "edu_year_id": 4, "timetable_id": 4, "name": "Timetable 4", "state": "active" },
+  { "edu_id": 5, "filial_id": 5, "edu_year_id": 5, "timetable_id": 5, "name": "Timetable 5", "state": "active" },
+  { "edu_id": 6, "filial_id": 6, "edu_year_id": 6, "timetable_id": 6, "name": "Timetable 6", "state": "active" },
+  { "edu_id": 7, "filial_id": 7, "edu_year_id": 7, "timetable_id": 7, "name": "Timetable 7", "state": "active" },
+  { "edu_id": 8, "filial_id": 8, "edu_year_id": 8, "timetable_id": 8, "name": "Timetable 8", "state": "active" },
+  { "edu_id": 9, "filial_id": 9, "edu_year_id": 9, "timetable_id": 9, "name": "Timetable 9", "state": "active" },
+  { "edu_id": 10, "filial_id": 10, "edu_year_id": 10, "timetable_id": 10, "name": "Timetable 10", "state": "active" },
+  { "edu_id": 11, "filial_id": 11, "edu_year_id": 11, "timetable_id": 11, "name": "Timetable 11", "state": "active" },
+  { "edu_id": 12, "filial_id": 12, "edu_year_id": 12, "timetable_id": 12, "name": "Timetable 12", "state": "active" },
+  { "edu_id": 13, "filial_id": 13, "edu_year_id": 13, "timetable_id": 13, "name": "Timetable 13", "state": "active" },
+  { "edu_id": 14, "filial_id": 14, "edu_year_id": 14, "timetable_id": 14, "name": "Timetable 14", "state": "active" },
+  { "edu_id": 15, "filial_id": 15, "edu_year_id": 15, "timetable_id": 15, "name": "Timetable 15", "state": "active" }
+]
