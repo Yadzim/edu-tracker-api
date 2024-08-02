@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "edu_year_id": 1, "name": "Edu Year 1", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 2, "edu_year_id": 2, "name": "Edu Year 2", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 3, "edu_year_id": 3, "name": "Edu Year 3", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 4, "edu_year_id": 4, "name": "Edu Year 4", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 5, "edu_year_id": 5, "name": "Edu Year 5", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 6, "edu_year_id": 6, "name": "Edu Year 6", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 7, "edu_year_id": 7, "name": "Edu Year 7", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 8, "edu_year_id": 8, "name": "Edu Year 8", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 9, "edu_year_id": 9, "name": "Edu Year 9", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 10, "edu_year_id": 10, "name": "Edu Year 10", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 11, "edu_year_id": 11, "name": "Edu Year 11", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 12, "edu_year_id": 12, "name": "Edu Year 12", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 13, "edu_year_id": 13, "name": "Edu Year 13", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 14, "edu_year_id": 14, "name": "Edu Year 14", "start_date": "2023-01-01", "end_date": "2023-12-31" },
+  { "edu_id": 15, "edu_year_id": 15, "name": "Edu Year 15", "start_date": "2023-01-01", "end_date": "2023-12-31" }
+]
