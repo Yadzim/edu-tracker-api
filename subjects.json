@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "subject_id": 1, "name": "Subject 1", "state": "active" },
+  { "edu_id": 2, "subject_id": 2, "name": "Subject 2", "state": "active" },
+  { "edu_id": 3, "subject_id": 3, "name": "Subject 3", "state": "active" },
+  { "edu_id": 4, "subject_id": 4, "name": "Subject 4", "state": "active" },
+  { "edu_id": 5, "subject_id": 5, "name": "Subject 5", "state": "active" },
+  { "edu_id": 6, "subject_id": 6, "name": "Subject 6", "state": "active" },
+  { "edu_id": 7, "subject_id": 7, "name": "Subject 7", "state": "active" },
+  { "edu_id": 8, "subject_id": 8, "name": "Subject 8", "state": "active" },
+  { "edu_id": 9, "subject_id": 9, "name": "Subject 9", "state": "active" },
+  { "edu_id": 10, "subject_id": 10, "name": "Subject 10", "state": "active" },
+  { "edu_id": 11, "subject_id": 11, "name": "Subject 11", "state": "active" },
+  { "edu_id": 12, "subject_id": 12, "name": "Subject 12", "state": "active" },
+  { "edu_id": 13, "subject_id": 13, "name": "Subject 13", "state": "active" },
+  { "edu_id": 14, "subject_id": 14, "name": "Subject 14", "state": "active" },
+  { "edu_id": 15, "subject_id": 15, "name": "Subject 15", "state": "active" }
+]
