@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "filial_id": 1, "division_id": 1, "name": "Division 1", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 2, "filial_id": 2, "division_id": 2, "name": "Division 2", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 3, "filial_id": 3, "division_id": 3, "name": "Division 3", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 4, "filial_id": 4, "division_id": 4, "name": "Division 4", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 5, "filial_id": 5, "division_id": 5, "name": "Division 5", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 6, "filial_id": 6, "division_id": 6, "name": "Division 6", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 7, "filial_id": 7, "division_id": 7, "name": "Division 7", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 8, "filial_id": 8, "division_id": 8, "name": "Division 8", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 9, "filial_id": 9, "division_id": 9, "name": "Division 9", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 10, "filial_id": 10, "division_id": 10, "name": "Division 10", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 11, "filial_id": 11, "division_id": 11, "name": "Division 11", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 12, "filial_id": 12, "division_id": 12, "name": "Division 12", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 13, "filial_id": 13, "division_id": 13, "name": "Division 13", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 14, "filial_id": 14, "division_id": 14, "name": "Division 14", "manager_id": null, "division_kind": "D" },
+  { "edu_id": 15, "filial_id": 15, "division_id": 15, "name": "Division 15", "manager_id": null, "division_kind": "D" }
+]
