@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "name": "Education Center 1", "code": "EC1", "state": "active" },
+  { "edu_id": 2, "name": "Education Center 2", "code": "EC2", "state": "active" },
+  { "edu_id": 3, "name": "Education Center 3", "code": "EC3", "state": "active" },
+  { "edu_id": 4, "name": "Education Center 4", "code": "EC4", "state": "active" },
+  { "edu_id": 5, "name": "Education Center 5", "code": "EC5", "state": "active" },
+  { "edu_id": 6, "name": "Education Center 6", "code": "EC6", "state": "active" },
+  { "edu_id": 7, "name": "Education Center 7", "code": "EC7", "state": "active" },
+  { "edu_id": 8, "name": "Education Center 8", "code": "EC8", "state": "active" },
+  { "edu_id": 9, "name": "Education Center 9", "code": "EC9", "state": "active" },
+  { "edu_id": 10, "name": "Education Center 10", "code": "EC10", "state": "active" },
+  { "edu_id": 11, "name": "Education Center 11", "code": "EC11", "state": "active" },
+  { "edu_id": 12, "name": "Education Center 12", "code": "EC12", "state": "active" },
+  { "edu_id": 13, "name": "Education Center 13", "code": "EC13", "state": "active" },
+  { "edu_id": 14, "name": "Education Center 14", "code": "EC14", "state": "active" },
+  { "edu_id": 15, "name": "Education Center 15", "code": "EC15", "state": "active" }
+]
