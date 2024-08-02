@@ -1,0 +1,17 @@
+[
+  { "edu_id": 1, "question_id": 1, "option_id": 1, "text": "Option 1", "order_no": 1, "is_correct": true },
+  { "edu_id": 2, "question_id": 2, "option_id": 2, "text": "Option 2", "order_no": 2, "is_correct": false },
+  { "edu_id": 3, "question_id": 3, "option_id": 3, "text": "Option 3", "order_no": 3, "is_correct": true },
+  { "edu_id": 4, "question_id": 4, "option_id": 4, "text": "Option 4", "order_no": 4, "is_correct": false },
+  { "edu_id": 5, "question_id": 5, "option_id": 5, "text": "Option 5", "order_no": 5, "is_correct": true },
+  { "edu_id": 6, "question_id": 6, "option_id": 6, "text": "Option 6", "order_no": 6, "is_correct": false },
+  { "edu_id": 7, "question_id": 7, "option_id": 7, "text": "Option 7", "order_no": 7, "is_correct": true },
+  { "edu_id": 8, "question_id": 8, "option_id": 8, "text": "Option 8", "order_no": 8, "is_correct": false },
+  { "edu_id": 9, "question_id": 9, "option_id": 9, "text": "Option 9", "order_no": 9, "is_correct": true },
+  { "edu_id": 10, "question_id": 10, "option_id": 10, "text": "Option 10", "order_no": 10, "is_correct": false },
+  { "edu_id": 11, "question_id": 11, "option_id": 11, "text": "Option 11", "order_no": 11, "is_correct": true },
+  { "edu_id": 12, "question_id": 12, "option_id": 12, "text": "Option 12", "order_no": 12, "is_correct": false },
+  { "edu_id": 13, "question_id": 13, "option_id": 13, "text": "Option 13", "order_no": 13, "is_correct": true },
+  { "edu_id": 14, "question_id": 14, "option_id": 14, "text": "Option 14", "order_no": 14, "is_correct": false },
+  { "edu_id": 15, "question_id": 15, "option_id": 15, "text": "Option 15", "order_no": 15, "is_correct": true }
+]
